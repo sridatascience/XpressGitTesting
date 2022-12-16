@@ -3,6 +3,8 @@ uint8_t m =10;
 uint8_t add(uint8_t n, uint8_t o, uint8_t p ){
    return n+o+p;
 }
+// To check stash changes for staged changes
+// To check stash changes for unstaged changes
 void main() {
    uint8_t a = 0x05;
    LATA = a;
