@@ -1,4 +1,4 @@
-//merge comment added which is not there in local repository
+//merge comment added which is not there in remote repository
 //merge comment added which can be pulled
 //stash 1 changes
 // Git pull comment to check pull functionality from Github To Xpress -1
