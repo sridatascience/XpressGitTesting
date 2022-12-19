@@ -1,3 +1,5 @@
+//ammend commit changes
+//stash 1 changes
 // Git pull comment to check pull functionality from Github To Xpress -1
 #include <xc.h>
 uint8_t m =10;
