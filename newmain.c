@@ -1,3 +1,4 @@
+//pull changes from Remote repository
 //merge comment added which is not there in remote repository
 //merge comment added which can be pulled
 //stash 1 changes
