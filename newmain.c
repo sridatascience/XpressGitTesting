@@ -1,4 +1,7 @@
-//stash 1 changes in development1
+//pull changes in local repository1
+//merge comment added which is not there in remote repository
+//merge comment added which can be pulled
+//stash 1 changes
 // Git pull comment to check pull functionality from Github To Xpress -1
 
 #include <xc.h>
@@ -6,7 +9,8 @@ uint8_t m =10;
 uint8_t add(uint8_t n, uint8_t o, uint8_t p ){
    return n+o+p;
 }
-//First comment in development1 branch
+
+//Git push comment -2
 void main() {
    uint8_t a = 0x05;
    LATA = a;
@@ -17,5 +21,7 @@ void main() {
    uint8_t t = add(a,b,c);
    return;
 }
-//Second comment in development1 branch
-// changes made in development1 branch in github on 2-20-2023 and committed in github only
+//End Comment -3
+//Code update done on 20-2-2023 from local repository
+//Code update done on 20-2-2023 from remote repository and committed in remote repository only
+
