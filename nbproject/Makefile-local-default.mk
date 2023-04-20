@@ -33,4 +33,4 @@ MP_CC_DIR="/opt/microchip/xc16/v2.00/bin"
 MP_AS_DIR="/opt/microchip/xc16/v2.00/bin"
 MP_LD_DIR="/opt/microchip/xc16/v2.00/bin"
 MP_AR_DIR="/opt/microchip/xc16/v2.00/bin"
-DFP_DIR=/home/lib/packs/Microchip/PIC24F-GA-GB_DFP/1.9.326
+DFP_DIR=/home/lib/packs/Microchip/PIC24F-GA-GB_DFP/1.8.217
